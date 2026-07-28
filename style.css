@@ -1,0 +1,35 @@
+header{  
+        background-color: lightseagreen;
+        color: blueviolet;
+        text-align: center;
+        max-width: 800px ;
+        margin:0 auto;
+        padding: 16px;
+       }
+       main{
+        background-color: darkslategray;
+        color: blueviolet;
+        margin:0 auto;
+        padding:16px;
+       }
+       main{
+        background-color: deeppink;
+        color: blueviolet;
+        margin: 0 auto;
+        padding: 16px;
+
+       }
+       article{
+       
+       }
+       img{
+        width:80px;
+        height:80px;
+       }
+       .artigo-autor{
+        font-weight: bold;
+       }
+       .direitos{
+        text-align: center;
+        color: aqua;
+       }
