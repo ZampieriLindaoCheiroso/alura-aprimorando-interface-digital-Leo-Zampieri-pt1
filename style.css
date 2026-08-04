@@ -1,4 +1,8 @@
-header{  
+body{
+        max-width:  100vw;
+}
+
+header{     
         background-color: lightseagreen;
         color: blueviolet;
         text-align: center;
@@ -11,6 +15,7 @@ header{
         color: blueviolet;
         margin:0 auto;
         padding:16px;
+         display: flex;
        }
        main{
         background-color: deeppink;
@@ -20,7 +25,16 @@ header{
 
        }
        article{
-       
+        flex-direction: column
+        align-items: center;
+        text-align: center;
+        justify-content: center;]
+        
+   border: 1px solid black; 
+   margin: 16px;  
+   gap: 16px;
+   padding: 16px;
+   flex: 1 1 25%; 
        }
        img{
         width:80px;
